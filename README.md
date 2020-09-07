@@ -1,5 +1,5 @@
 # Olympics-Project
-Data cleaning and ML algorithms on Olympic data!
+Data cleaning and machine learning algorithms on Olympic data!
 
 
 This was mock data used from the Olympics team. I was able to do a lot of data cleaning and run machine learning algorithms to see if being injury prone was real or not.
